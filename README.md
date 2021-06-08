@@ -12,7 +12,7 @@
 ## Things you SHOULD NOT do
 - Don't Remove credits from the footer...
 - Don't Say you made the website when you didn't...
-- Don't copy paste without knowing how it works. [ **[Youtube Tutorial]()** ]
+- Don't copy paste without knowing how it works. [ **[Youtube Tutorial](https://youtu.be/NDe5rjsTll0)** ]
 ## Config
 - Go to `config.json` and put the info needed
 - edit all the `.html` files and put your bot name, avatar, etc in the place where it goes
